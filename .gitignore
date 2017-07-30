@@ -1,0 +1,6 @@
+*/node_modules/*
+others/*
+op.sh
+test.html
+client/firefox_root/*
+client/.*
